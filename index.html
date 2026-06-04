@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>🎬CineNova</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <nav class="navbar">
+        
+
+        <div class="logo">
+            🎬 CineNova
+        </div>
+
+        <div class="nav-links">
+            <a href="javascript:void(0)" onclick="openAbout()">About Us</a>
+            <a href="javascript:void(0)" onclick="openFavorites()">Favorites</a>
+            <a href="#help">
+                Help
+            </a>
+
+            <a href="#contact">
+                Contact Us
+            </a>
+
+        </div>
+
+
+    </nav>
+    
+
+    <section class="banner-slider">
+
+        <div class="banner-text">
+            <h1>Discover Movies Based On Your Mood</h1>
+
+            <p class="welcome-section">
+                🍿 Choose Your Preferred Language
+            </p>
+        </div>
+
+    </section>
+
+    <!-- SEARCH + FILTERS -->
+
+    <section class="search-section">
+
+        <input
+            type="text"
+            id="searchInput"
+            placeholder="Search Movies..."
+            onkeyup="searchMovies()">
+
+        <div class="filters">
+
+            <label>Language:</label>
+
+            <select id="languageFilter" onchange="filterMovies()">
+
+                <option value="All">All Languages</option>
+                <option value="Telugu">Telugu</option>
+                <option value="Hindi">Hindi</option>
+                <option value="English">English</option>
+                <option value="Tamil">Tamil</option>
+                <option value="Malayalam">Malayalam</option>
+                <option value="Kannada">Kannada</option>
+
+            </select>
+
+            <label>Category:</label>
+
+            <select id="categoryFilter" onchange="filterMovies()">
+
+                <option value="All">All Categories</option>
+                <option value="Romance">Romance</option>
+                <option value="Action">Action</option>
+                <option value="SportsDrama">Sports Drama</option>
+                <option value="ComedyDrama">Comedy/Drama</option>
+                <option value="Sci-Fi">Sci-Fi</option>
+                <option value="Sci-Fi/Thriller">Sci-Fi/Thriller</option>
+
+            </select>
+
+        </div>
+
+    </section>
+
+
+    <div id="movieContainer" class="movies-container"></div>
+
+    <p id="noMovies"
+        style="display:none; color:red; font-size:20px;">
+        🎬 Oops!
+
+        We couldn't find that movie.
+
+        Try another language, genre or movie name.
+    </p>
+    <section class="support-section">
+
+        <div id="help" class="support-card">
+            <h2>Need Help? 🤝</h2>
+            <p>
+                Search movies by name, filter by language, or choose a category
+                to quickly find movies that match your mood.
+            </p>
+        </div>
+
+        <div id="contact" class="support-card">
+            <h2>Contact Us 📩</h2>
+            <p>
+                Have feedback or suggestions for CineNova?
+            </p>
+            <p>
+                palaganilakshmikalyani@gmail.com &
+            </p>
+            <p>
+                lakshmipalagani035@gmail.com
+            </p>
+        </div>
+
+    </section>
+
+
+    <footer>
+
+        <h3>❤️ Made for Movie Lovers</h3>
+
+        <p>
+            Discover amazing stories,
+            languages and cultures through cinema.
+        </p>
+
+        <p>
+            © 2026 CineNova | All Rights Reserved
+        </p>
+
+    </footer>
+
+        <!-- ABOUT POPUP -->
+
+    <div id="aboutModal" class="modal">
+        <div class="about-box">
+
+
+            <div class="about-header">
+                <h2>🎬 About CineNova</h2>
+                <span class="close-btn" onclick="closeAbout()">✖</span>
+            </div>
+
+            <div class="about-item">
+                <h3>1️⃣ What is CineNova?</h3>
+                <p>
+                    CineNova is a movie discovery website that helps users find movies
+                    based on language, category, rating, and story description.
+                </p>
+            </div>
+
+            <div class="about-item">
+                <h3>2️⃣ How does CineNova work?</h3>
+                <p>
+                    CineNova loads movie data from the backend and displays movie cards
+                    dynamically. Users can search movies, filter by language, choose
+                    categories, read descriptions, and add movies to favorites.
+                </p>
+            </div>
+
+            <div class="about-item">
+                <h3>3️⃣ How to use this website?</h3>
+                <p>
+                    Search for a movie, select a preferred language, choose a category,
+                    click Read More for details, and use the heart icon to save favorites.
+                </p>
+            </div>
+
+            <p class="about-message">
+                ✨ Discover movies. Explore stories. Enjoy entertainment.
+            </p>
+
+        </div>
+    </div>
+
+    <!-- FAVORITES POPUP -->
+
+    <div id="favoritesModal" class="modal">
+
+        <div class="modal-content">
+
+            <span class="close-btn" onclick="closeFavorites()">×</span>
+
+            <h2>❤️ Your Favorite Movies</h2>
+
+            <div id="favoriteMovies"></div>
+
+        </div>
+
+    </div>
+
+    
+    <script src="script.js"></script>
+    <button id="topBtn" onclick="scrollToTop()">
+    ⬆ Top
+    </button>
+</body>
+
+</html> 

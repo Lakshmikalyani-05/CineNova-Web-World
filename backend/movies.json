@@ -1,0 +1,917 @@
+[
+  {
+    "name": "Sita Ramam",
+    "language": "Telugu",
+    "category": "Romance",
+    "genre": "Romance Drama",
+    "rating": 8.5,
+    "poster": "images/sitaramam.jpg",
+    "shortDescription": "A heart-touching love story about a soldier and a woman connected through letters...",
+    "fullDescription": "A heart-touching love story about a soldier named Ram and a woman named Sita. Their lives become connected through letters, leading to an emotional journey filled with love, sacrifice, and unforgettable memories.",
+    "availableLanguages": [
+      "Telugu",
+      "Hindi",
+      "Tamil",
+      "Malayalam"
+    ]
+  },
+  {
+    "name": "RRR",
+    "language": "Telugu",
+    "category": "Action",
+    "genre": "Action Drama",
+    "rating": 8.0,
+    "poster": "images/rrr.jpg",
+    "shortDescription": "An action-packed story about two brave revolutionaries and their friendship...",
+    "fullDescription": "An action-packed historical drama based on the friendship of two brave revolutionaries. The movie is filled with powerful action scenes, emotions, and a strong message about courage and freedom.",
+    "availableLanguages": [
+      "Telugu",
+      "Hindi",
+      "Tamil",
+      "Malayalam",
+      "Kannada"
+    ]
+  },
+  {
+    "name": "Aditya 369",
+    "language": "Telugu",
+    "category": "Sci-Fi",
+    "genre": "Science Fiction",
+    "rating": 8.5,
+    "poster": "images/aditya369.jpg",
+    "shortDescription": "A classic Telugu science-fiction movie based on time travel...",
+    "fullDescription": "A classic Telugu science-fiction movie based on time travel, adventure, and historical imagination. The story takes viewers through different time periods with suspense, creativity, and entertainment.",
+    "availableLanguages": [
+      "Telugu"
+    ]
+  },
+  {
+    "name": "Jersey",
+    "language": "Telugu",
+    "category": "SportsDrama",
+    "genre": "Sports Drama",
+    "rating": 8.5,
+    "poster": "images/jersey.jpg",
+    "shortDescription": "An emotional cricket story about dreams, failure, and comeback...",
+    "fullDescription": "Jersey follows a former cricketer who tries to return to the sport for his son and his own lost dream. The movie is emotional, inspiring, and strongly connected to family and self-respect.",
+    "availableLanguages": [
+      "Telugu",
+      "Hindi",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "Arjun Reddy",
+    "language": "Telugu",
+    "category": "Romance",
+    "genre": "Intense Romance Drama",
+    "rating": 8.0,
+    "poster": "images/arjunreddy-new.jpg",
+    "shortDescription": "An intense love story about passion, anger, and heartbreak...",
+    "fullDescription": "Arjun Reddy is about a brilliant but aggressive doctor whose life changes after heartbreak. The movie explores love, pain, self-destruction, and emotional recovery.",
+    "availableLanguages": [
+      "Telugu",
+      "Hindi",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "Baahubali",
+    "language": "Telugu",
+    "category": "Action",
+    "genre": "Epic Action Drama",
+    "rating": 8.4,
+    "poster": "images/bahubali-new.jpg",
+    "shortDescription": "An epic kingdom story about courage, identity, and destiny...",
+    "fullDescription": "Baahubali tells the story of a young man who discovers his royal past and his connection to a powerful kingdom. The movie is known for grand visuals, action, emotion, and strong storytelling.",
+    "availableLanguages": [
+      "Telugu",
+      "Hindi",
+      "Tamil",
+      "Malayalam"
+    ]
+  },
+  {
+    "name": "Eega",
+    "language": "Telugu",
+    "category": "Fantasy",
+    "genre": "Fantasy Revenge Drama",
+    "rating": 8.1,
+    "poster": "images/eega-new.jpg",
+    "shortDescription": "A unique revenge story where a man returns as a fly...",
+    "fullDescription": "Eega is a creative fantasy movie where a man is reborn as a fly to protect his love and take revenge on his enemy. The movie mixes emotion, comedy, suspense, and imagination.",
+    "availableLanguages": [
+      "Telugu",
+      "Hindi",
+      "Tamil",
+      "Malayalam"
+    ]
+  },
+  {
+    "name": "Pushpa",
+    "language": "Telugu",
+    "category": "Action",
+    "genre": "Action Crime Drama",
+    "rating": 8.1,
+    "poster": "images/pushpa-new.jpg",
+    "shortDescription": "A mass action story about ambition, power, and survival...",
+    "fullDescription": "Pushpa follows Pushpa Raj, a laborer who rises in the red sandalwood smuggling world. The movie highlights ambition, confidence, struggle, and the hunger for respect.",
+    "availableLanguages": [
+      "Telugu",
+      "Hindi",
+      "Tamil",
+      "Malayalam",
+      "Kannada"
+    ]
+  },
+  {
+    "name": "Salaar",
+    "language": "Telugu",
+    "category": "Action",
+    "genre": "Action Thriller",
+    "rating": 8.2,
+    "poster": "images/salaar-new2.jpg",
+    "shortDescription": "A high-energy action story about friendship, loyalty, and violence...",
+    "fullDescription": "Salaar is an intense action drama about friendship, power, and conflict in a violent world. The movie focuses on loyalty, revenge, and emotional bonds between characters.",
+    "availableLanguages": [
+      "Telugu",
+      "Hindi",
+      "Tamil",
+      "Malayalam",
+      "Kannada"
+    ]
+  },
+  {
+    "name": "Mahanati",
+    "language": "Telugu",
+    "category": "Drama",
+    "genre": "Biographical Drama",
+    "rating": 8.4,
+    "poster": "images/mahanati.jpg",
+    "shortDescription": "An emotional biographical drama about a legendary actress...",
+    "fullDescription": "Mahanati tells the life story of legendary actress Savitri, showing her success, kindness, struggles, and personal pain. The movie is emotional and inspiring for viewers who enjoy real-life stories.",
+    "availableLanguages": [
+      "Telugu",
+      "Tamil",
+      "Malayalam"
+    ]
+  },
+  {
+    "name": "Dangal",
+    "language": "Hindi",
+    "category": "SportsDrama",
+    "genre": "Sports Drama",
+    "rating": 8.3,
+    "poster": "images/dangal.jpg",
+    "shortDescription": "An inspiring wrestling story about hard work and dreams...",
+    "fullDescription": "Dangal is based on a father's dream to train his daughters as world-class wrestlers. The movie highlights discipline, determination, family support, and believing in yourself.",
+    "availableLanguages": [
+      "Hindi",
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "3 Idiots",
+    "language": "Hindi",
+    "category": "ComedyDrama",
+    "genre": "Comedy Drama",
+    "rating": 8.4,
+    "poster": "images/3idiots-new.jpg",
+    "shortDescription": "A college friendship story about education and passion...",
+    "fullDescription": "3 Idiots follows three engineering students and teaches lessons about friendship, pressure, education, and choosing a career based on interest rather than fear.",
+    "availableLanguages": [
+      "Hindi",
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "PK",
+    "language": "Hindi",
+    "category": "ComedyDrama",
+    "genre": "Comedy Drama",
+    "rating": 8.1,
+    "poster": "images/pk-new.jpg",
+    "shortDescription": "A comedy-drama that questions beliefs through an innocent outsider...",
+    "fullDescription": "PK uses humor and emotion to question social practices and blind beliefs. The story is entertaining, thought-provoking, and meaningful for viewers who enjoy message-oriented films.",
+    "availableLanguages": [
+      "Hindi",
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "Taare Zameen Par",
+    "language": "Hindi",
+    "category": "Drama",
+    "genre": "Emotional Drama",
+    "rating": 8.3,
+    "poster": "images/taarezameenpar-new.jpg",
+    "shortDescription": "A touching story about a child, learning, and understanding...",
+    "fullDescription": "Taare Zameen Par tells the story of a child who struggles in school and is misunderstood by others. The movie beautifully shows the importance of patience, creativity, and emotional support.",
+    "availableLanguages": [
+      "Hindi"
+    ]
+  },
+  {
+    "name": "Chak De India",
+    "language": "Hindi",
+    "category": "SportsDrama",
+    "genre": "Sports Drama",
+    "rating": 8.2,
+    "poster": "images/chakdeindia-new.jpg",
+    "shortDescription": "A powerful sports film about teamwork and national pride...",
+    "fullDescription": "Chak De India follows a coach who trains the Indian women's hockey team to fight against challenges. The movie focuses on teamwork, discipline, motivation, and confidence.",
+    "availableLanguages": [
+      "Hindi"
+    ]
+  },
+  {
+    "name": "Zindagi Na Milegi Dobara",
+    "language": "Hindi",
+    "category": "Drama",
+    "genre": "Friendship Drama",
+    "rating": 8.2,
+    "poster": "images/zindaginamilegidobara-new.jpg",
+    "shortDescription": "A feel-good journey about friendship, fear, and living fully...",
+    "fullDescription": "Zindagi Na Milegi Dobara follows three friends on a life-changing trip. The movie is about friendship, self-discovery, facing fears, and enjoying life beyond stress.",
+    "availableLanguages": [
+      "Hindi"
+    ]
+  },
+  {
+    "name": "Queen",
+    "language": "Hindi",
+    "category": "Drama",
+    "genre": "Comedy Drama",
+    "rating": 8.1,
+    "poster": "images/queen-new.jpg",
+    "shortDescription": "A self-discovery story of a young woman finding confidence...",
+    "fullDescription": "Queen follows a young woman who travels alone after a personal setback. The movie shows independence, confidence, emotional growth, and learning to value oneself.",
+    "availableLanguages": [
+      "Hindi"
+    ]
+  },
+  {
+    "name": "War",
+    "language": "Hindi",
+    "category": "Action",
+    "genre": "Action Thriller",
+    "rating": 7.5,
+    "poster": "images/war-new.jpg",
+    "shortDescription": "A stylish action thriller about a soldier and his mission...",
+    "fullDescription": "War is a high-energy action thriller with stylish sequences, mystery, and conflict between trained agents. It is suitable for viewers who enjoy action and suspense.",
+    "availableLanguages": [
+      "Hindi",
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "Drishyam 2",
+    "language": "Hindi",
+    "category": "Thriller",
+    "genre": "Crime Thriller",
+    "rating": 8.2,
+    "poster": "images/drishyam2hindi-new.jpg",
+    "shortDescription": "A gripping family thriller full of suspense and smart twists...",
+    "fullDescription": "Drishyam 2 continues a suspenseful story of a family trying to protect themselves from investigation. The movie is known for clever planning, tension, and strong emotional moments.",
+    "availableLanguages": [
+      "Hindi",
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "Shershaah",
+    "language": "Hindi",
+    "category": "Action",
+    "genre": "Biographical War Drama",
+    "rating": 8.3,
+    "poster": "images/shershaah-new.jpg",
+    "shortDescription": "A patriotic war drama about courage and sacrifice...",
+    "fullDescription": "Shershaah is based on the life of Captain Vikram Batra. The movie shows bravery, duty, love, and sacrifice, making it inspiring for viewers who like patriotic stories.",
+    "availableLanguages": [
+      "Hindi"
+    ]
+  },
+  {
+    "name": "Interstellar",
+    "language": "English",
+    "category": "Sci-Fi",
+    "genre": "Science Fiction Drama",
+    "rating": 8.7,
+    "poster": "images/interstellar.jpg",
+    "shortDescription": "A science-fiction adventure about space, time, and family...",
+    "fullDescription": "Interstellar follows astronauts who travel through space to find a new home for humanity. The movie combines science, emotion, survival, and a father's love for his family.",
+    "availableLanguages": [
+      "English",
+      "Hindi",
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "Inception",
+    "language": "English",
+    "category": "Sci-Fi",
+    "genre": "Sci-Fi Thriller",
+    "rating": 8.8,
+    "poster": "images/inception.jpg",
+    "shortDescription": "A mind-bending thriller about dreams, secrets, and reality...",
+    "fullDescription": "Inception follows a skilled thief who enters dreams to steal secrets. The movie is filled with mystery, action, imagination, and concepts that keep viewers thinking.",
+    "availableLanguages": [
+      "English",
+      "Hindi",
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "The Martian",
+    "language": "English",
+    "category": "Sci-Fi",
+    "genre": "Survival Sci-Fi",
+    "rating": 8.0,
+    "poster": "images/themartian-new.jpg",
+    "shortDescription": "A survival story about an astronaut stranded on Mars...",
+    "fullDescription": "The Martian follows an astronaut left alone on Mars who uses science, patience, and creativity to survive. The movie is inspiring, smart, and entertaining.",
+    "availableLanguages": [
+      "English",
+      "Hindi",
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "The Dark Knight",
+    "language": "English",
+    "category": "Action",
+    "genre": "Action Thriller",
+    "rating": 9.0,
+    "poster": "images/darkknight.jpg",
+    "shortDescription": "A superhero crime thriller about justice and chaos...",
+    "fullDescription": "The Dark Knight shows a battle between Batman and the Joker. The movie is known for intense action, strong performances, moral conflict, and thrilling storytelling.",
+    "availableLanguages": [
+      "English",
+      "Hindi",
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "Avengers Endgame",
+    "language": "English",
+    "category": "Action",
+    "genre": "Superhero Action",
+    "rating": 8.4,
+    "poster": "images/avengersendgame-new.jpg",
+    "shortDescription": "A grand superhero story about teamwork and sacrifice...",
+    "fullDescription": "Avengers Endgame brings superheroes together for a final battle to save the universe. The movie is emotional, action-packed, and powerful for superhero fans.",
+    "availableLanguages": [
+      "English",
+      "Hindi",
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "Titanic",
+    "language": "English",
+    "category": "Romance",
+    "genre": "Romantic Drama",
+    "rating": 7.9,
+    "poster": "images/titanic.jpg",
+    "shortDescription": "A tragic love story set during a historic ship disaster...",
+    "fullDescription": "Titanic tells the emotional love story of Jack and Rose on the famous ship. The movie combines romance, class differences, tragedy, and unforgettable emotional moments.",
+    "availableLanguages": [
+      "English",
+      "Hindi",
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "Forrest Gump",
+    "language": "English",
+    "category": "Drama",
+    "genre": "Life Drama",
+    "rating": 8.8,
+    "poster": "images/forrestgump.jpg",
+    "shortDescription": "A heartwarming life story about innocence and destiny...",
+    "fullDescription": "Forrest Gump follows a kind-hearted man through different stages of life and history. The movie is emotional, inspiring, and filled with memorable life lessons.",
+    "availableLanguages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "name": "The Pursuit of Happyness",
+    "language": "English",
+    "category": "Drama",
+    "genre": "Inspirational Drama",
+    "rating": 8.0,
+    "poster": "images/pursuitofhappyness.jpg",
+    "shortDescription": "An inspiring story about struggle, hope, and success...",
+    "fullDescription": "The Pursuit of Happyness follows a father who faces poverty while trying to build a better life for his son. The movie motivates viewers to keep going despite difficulties.",
+    "availableLanguages": [
+      "English",
+      "Hindi"
+    ]
+  },
+  {
+    "name": "The Conjuring",
+    "language": "English",
+    "category": "Thriller",
+    "genre": "Horror Thriller",
+    "rating": 7.5,
+    "poster": "images/theconjuring-new4.jpg",
+    "shortDescription": "A scary thriller about paranormal investigation...",
+    "fullDescription": "The Conjuring follows paranormal investigators helping a family facing frightening supernatural events. The movie is suspenseful and suitable for horror thriller fans.",
+    "availableLanguages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "Jumanji",
+    "language": "English",
+    "category": "Fantasy",
+    "genre": "Adventure Fantasy",
+    "rating": 7.0,
+    "poster": "images/jumanji-new.jpg",
+    "shortDescription": "A fun adventure story inside a magical game world...",
+    "fullDescription": "Jumanji follows characters pulled into a game world full of danger and comedy. The movie is entertaining, adventurous, and fun for viewers who like fantasy stories.",
+    "availableLanguages": [
+      "English",
+      "Hindi",
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "Vikram",
+    "language": "Tamil",
+    "category": "Action",
+    "genre": "Action Thriller",
+    "rating": 8.3,
+    "poster": "images/vikram.jpg",
+    "shortDescription": "An intense action thriller about crime, mystery, and justice...",
+    "fullDescription": "Vikram is about a retired special agent who returns to investigate a dangerous criminal network. The movie is known for suspense, powerful performances, and stylish action scenes.",
+    "availableLanguages": [
+      "Tamil",
+      "Telugu",
+      "Hindi",
+      "Malayalam"
+    ]
+  },
+  {
+    "name": "Master",
+    "language": "Tamil",
+    "category": "Action",
+    "genre": "Action Drama",
+    "rating": 8.0,
+    "poster": "images/master.jpg",
+    "shortDescription": "A teacher faces a dangerous gangster in an intense battle...",
+    "fullDescription": "Master follows a professor who enters a juvenile school and confronts a ruthless criminal. The movie combines action, emotion, social issues, and powerful hero-villain conflict.",
+    "availableLanguages": [
+      "Tamil",
+      "Telugu",
+      "Hindi"
+    ]
+  },
+  {
+    "name": "Leo",
+    "language": "Tamil",
+    "category": "Action",
+    "genre": "Action Thriller",
+    "rating": 7.9,
+    "poster": "images/leo.jpg",
+    "shortDescription": "A mysterious action thriller about a man's hidden past...",
+    "fullDescription": "Leo follows a peaceful man whose life changes when violent enemies connect him to a dangerous past. The movie offers action, suspense, and emotional family moments.",
+    "availableLanguages": [
+      "Tamil",
+      "Telugu",
+      "Hindi",
+      "Kannada"
+    ]
+  },
+  {
+    "name": "96",
+    "language": "Tamil",
+    "category": "Romance",
+    "genre": "Romantic Drama",
+    "rating": 8.5,
+    "poster": "images/96.jpg",
+    "shortDescription": "A soft romantic story about school memories and lost love...",
+    "fullDescription": "96 follows two former classmates who meet after many years and revisit old memories. The movie is emotional, calm, and perfect for viewers who enjoy mature romance.",
+    "availableLanguages": [
+      "Tamil",
+      "Telugu"
+    ]
+  },
+  {
+    "name": "Super Deluxe",
+    "language": "Tamil",
+    "category": "Drama",
+    "genre": "Dark Comedy Drama",
+    "rating": 8.2,
+    "poster": "images/superdeluxe.jpg",
+    "shortDescription": "A bold drama with multiple connected stories and emotions...",
+    "fullDescription": "Super Deluxe presents different stories connected by human choices, mistakes, and emotions. The movie is unique, thought-provoking, and different from regular commercial films.",
+    "availableLanguages": [
+      "Tamil",
+      "Telugu",
+      "Malayalam"
+    ]
+  },
+  {
+    "name": "Kaithi",
+    "language": "Tamil",
+    "category": "Action",
+    "genre": "Action Thriller",
+    "rating": 8.4,
+    "poster": "images/kaithi.jpg",
+    "shortDescription": "A thrilling night journey involving crime, police, and survival...",
+    "fullDescription": "Kaithi follows a former prisoner who helps police during a dangerous night mission. The movie is intense, fast-paced, and emotional without unnecessary distractions.",
+    "availableLanguages": [
+      "Tamil",
+      "Telugu",
+      "Hindi"
+    ]
+  },
+  {
+    "name": "Soorarai Pottru",
+    "language": "Tamil",
+    "category": "Drama",
+    "genre": "Inspirational Drama",
+    "rating": 8.7,
+    "poster": "images/sooraraipottru-new.jpg",
+    "shortDescription": "An inspiring story about dreams, aviation, and determination...",
+    "fullDescription": "Soorarai Pottru follows a man who dreams of making air travel affordable for common people. The movie is motivational, emotional, and based on strong ambition.",
+    "availableLanguages": [
+      "Tamil",
+      "Telugu",
+      "Hindi"
+    ]
+  },
+  {
+    "name": "Ghajini",
+    "language": "Tamil",
+    "category": "Thriller",
+    "genre": "Action Thriller",
+    "rating": 7.8,
+    "poster": "images/ghajini.jpg",
+    "shortDescription": "A revenge thriller about memory loss and love...",
+    "fullDescription": "Ghajini follows a man with short-term memory loss who tries to find his lover's killer. The movie mixes romance, action, suspense, and emotional pain.",
+    "availableLanguages": [
+      "Tamil",
+      "Telugu",
+      "Hindi"
+    ]
+  },
+  {
+    "name": "Ratsasan",
+    "language": "Tamil",
+    "category": "Thriller",
+    "genre": "Crime Thriller",
+    "rating": 8.3,
+    "poster": "images/ratsasan.jpg",
+    "shortDescription": "A gripping crime thriller about a serial killer investigation...",
+    "fullDescription": "Ratsasan follows a police officer investigating a series of disturbing crimes. The movie is suspenseful, intense, and highly engaging for thriller lovers.",
+    "availableLanguages": [
+      "Tamil",
+      "Telugu",
+      "Hindi"
+    ]
+  },
+  {
+    "name": "Mersal",
+    "language": "Tamil",
+    "category": "Action",
+    "genre": "Action Drama",
+    "rating": 7.5,
+    "poster": "images/mersal.jpg",
+    "shortDescription": "A mass action drama with emotion and social message...",
+    "fullDescription": "Mersal combines action, family emotion, and social issues. The movie is suitable for viewers who enjoy commercial entertainers with strong hero moments.",
+    "availableLanguages": [
+      "Tamil",
+      "Telugu",
+      "Hindi"
+    ]
+  },
+  {
+    "name": "Premam",
+    "language": "Malayalam",
+    "category": "Romance",
+    "genre": "Romantic Drama",
+    "rating": 8.0,
+    "poster": "images/premam.jpg",
+    "shortDescription": "A beautiful romantic drama about love, friendship, and growth...",
+    "fullDescription": "Premam follows a young man's journey through different stages of love. The movie beautifully shows friendship, heartbreak, emotions, and personal growth.",
+    "availableLanguages": [
+      "Malayalam",
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "Drishyam",
+    "language": "Malayalam",
+    "category": "Thriller",
+    "genre": "Crime Thriller",
+    "rating": 8.6,
+    "poster": "images/drishyam-new.jpg",
+    "shortDescription": "A gripping thriller about a family protecting itself...",
+    "fullDescription": "Drishyam follows a family man who uses intelligence to protect his loved ones from a difficult crime investigation. The movie is suspenseful, emotional, and smartly written.",
+    "availableLanguages": [
+      "Malayalam",
+      "Telugu",
+      "Tamil",
+      "Hindi"
+    ]
+  },
+  {
+    "name": "Lucifer",
+    "language": "Malayalam",
+    "category": "Action",
+    "genre": "Political Action Drama",
+    "rating": 7.5,
+    "poster": "images/lucifer.jpg",
+    "shortDescription": "A political action drama about power and hidden identity...",
+    "fullDescription": "Lucifer explores political power, loyalty, and mystery after a leader's death. The movie has strong performances, stylish action, and intense drama.",
+    "availableLanguages": [
+      "Malayalam",
+      "Telugu",
+      "Tamil",
+      "Hindi"
+    ]
+  },
+  {
+    "name": "Bangalore Days",
+    "language": "Malayalam",
+    "category": "Drama",
+    "genre": "Friendship Drama",
+    "rating": 8.3,
+    "poster": "images/bangaloredays.jpg",
+    "shortDescription": "A feel-good story about cousins, dreams, and relationships...",
+    "fullDescription": "Bangalore Days follows three cousins who move through life, love, careers, and relationships. The movie is warm, emotional, and enjoyable for family and friendship lovers.",
+    "availableLanguages": [
+      "Malayalam",
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "Kumbalangi Nights",
+    "language": "Malayalam",
+    "category": "Drama",
+    "genre": "Family Drama",
+    "rating": 8.5,
+    "poster": "images/kumbalanginights-new.jpg",
+    "shortDescription": "A realistic family drama about broken relationships and healing...",
+    "fullDescription": "Kumbalangi Nights tells the story of brothers dealing with emotional issues, family conflict, and personal healing. The movie is natural, meaningful, and beautifully performed.",
+    "availableLanguages": [
+      "Malayalam",
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "Uyare",
+    "language": "Malayalam",
+    "category": "Drama",
+    "genre": "Inspirational Drama",
+    "rating": 8.0,
+    "poster": "images/uyare.jpg",
+    "shortDescription": "An inspiring story about courage after a painful life incident...",
+    "fullDescription": "Uyare follows a young woman who faces a life-changing tragedy and fights to rebuild her dreams. The movie is emotional, inspiring, and empowering.",
+    "availableLanguages": [
+      "Malayalam",
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "Minnal Murali",
+    "language": "Malayalam",
+    "category": "Fantasy",
+    "genre": "Superhero Fantasy",
+    "rating": 7.8,
+    "poster": "images/minnalmurali.jpg",
+    "shortDescription": "A fun superhero story rooted in a local village setting...",
+    "fullDescription": "Minnal Murali follows an ordinary man who gains superhero abilities and learns responsibility. The movie mixes fantasy, humor, emotion, and action.",
+    "availableLanguages": [
+      "Malayalam",
+      "Telugu",
+      "Tamil",
+      "Hindi"
+    ]
+  },
+  {
+    "name": "Hridayam",
+    "language": "Malayalam",
+    "category": "Romance",
+    "genre": "Coming-of-age Romance",
+    "rating": 8.1,
+    "poster": "images/hridayam.jpg",
+    "shortDescription": "A coming-of-age story about college life, love, and maturity...",
+    "fullDescription": "Hridayam follows a young man's journey through college, relationships, mistakes, and personal growth. The movie is emotional and relatable for youth audiences.",
+    "availableLanguages": [
+      "Malayalam",
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "2018",
+    "language": "Malayalam",
+    "category": "Drama",
+    "genre": "Survival Drama",
+    "rating": 8.4,
+    "poster": "images/2018.jpg",
+    "shortDescription": "A survival drama based on courage during a flood crisis...",
+    "fullDescription": "2018 portrays human courage, unity, and survival during a major flood situation. The movie is emotional, inspiring, and shows the strength of community.",
+    "availableLanguages": [
+      "Malayalam",
+      "Telugu",
+      "Tamil",
+      "Hindi"
+    ]
+  },
+  {
+    "name": "Thallumaala",
+    "language": "Malayalam",
+    "category": "ComedyDrama",
+    "genre": "Comedy Action Drama",
+    "rating": 7.0,
+    "poster": "images/thallumaala.jpg",
+    "shortDescription": "A stylish entertainer with comedy, fights, and friendship...",
+    "fullDescription": "Thallumaala is a colorful and energetic film about friendship, fights, romance, and youthful chaos. It is suitable for viewers who enjoy stylish comedy-action entertainers.",
+    "availableLanguages": [
+      "Malayalam",
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "KGF",
+    "language": "Kannada",
+    "category": "Action",
+    "genre": "Action Drama",
+    "rating": 8.2,
+    "poster": "images/kgf.jpg",
+    "shortDescription": "A powerful action drama about ambition, struggle, and power...",
+    "fullDescription": "KGF tells the story of Rocky, a man who rises from poverty with a dream of power and respect. His journey through the Kolar Gold Fields is filled with action and emotion.",
+    "availableLanguages": [
+      "Kannada",
+      "Telugu",
+      "Hindi",
+      "Tamil",
+      "Malayalam"
+    ]
+  },
+  {
+    "name": "Kantara",
+    "language": "Kannada",
+    "category": "Drama",
+    "genre": "Folklore Drama",
+    "rating": 8.8,
+    "poster": "images/kantara.jpg",
+    "shortDescription": "A powerful story rooted in culture, belief, and mystery...",
+    "fullDescription": "Kantara combines folklore, village life, land conflict, and spiritual belief. The movie is intense, emotional, and deeply connected to tradition.",
+    "availableLanguages": [
+      "Kannada",
+      "Telugu",
+      "Hindi",
+      "Tamil",
+      "Malayalam"
+    ]
+  },
+  {
+    "name": "777 Charlie",
+    "language": "Kannada",
+    "category": "Drama",
+    "genre": "Emotional Drama",
+    "rating": 8.7,
+    "poster": "images/777charlie.jpg",
+    "shortDescription": "An emotional journey about a man and a dog...",
+    "fullDescription": "777 Charlie follows a lonely man whose life changes after bonding with a dog. The movie is emotional, heartwarming, and meaningful for animal lovers.",
+    "availableLanguages": [
+      "Kannada",
+      "Telugu",
+      "Hindi",
+      "Tamil",
+      "Malayalam"
+    ]
+  },
+  {
+    "name": "Kirik Party",
+    "language": "Kannada",
+    "category": "ComedyDrama",
+    "genre": "Campus Comedy Drama",
+    "rating": 8.2,
+    "poster": "images/kirikparty.jpg",
+    "shortDescription": "A fun campus story about friendship, love, and growth...",
+    "fullDescription": "Kirik Party follows college students through friendship, romance, mistakes, and maturity. The movie is youthful, entertaining, and emotional.",
+    "availableLanguages": [
+      "Kannada",
+      "Telugu",
+      "Hindi"
+    ]
+  },
+  {
+    "name": "U Turn",
+    "language": "Kannada",
+    "category": "Thriller",
+    "genre": "Mystery Thriller",
+    "rating": 7.5,
+    "poster": "images/uturn.jpg",
+    "shortDescription": "A mystery thriller about accidents and investigation...",
+    "fullDescription": "U Turn follows a journalist investigating strange incidents connected to traffic rule violations. The movie is suspenseful and interesting for thriller lovers.",
+    "availableLanguages": [
+      "Kannada",
+      "Telugu",
+      "Tamil",
+      "Hindi"
+    ]
+  },
+  {
+    "name": "Lucia",
+    "language": "Kannada",
+    "category": "Thriller",
+    "genre": "Psychological Thriller",
+    "rating": 8.3,
+    "poster": "images/lucia.jpg",
+    "shortDescription": "A psychological thriller about dreams and reality...",
+    "fullDescription": "Lucia explores the line between dreams and real life through a unique story. The movie is creative, mysterious, and suitable for viewers who enjoy mind-bending cinema.",
+    "availableLanguages": [
+      "Kannada",
+      "Telugu",
+      "Hindi"
+    ]
+  },
+  {
+    "name": "Avane Srimannarayana",
+    "language": "Kannada",
+    "category": "Fantasy",
+    "genre": "Fantasy Adventure",
+    "rating": 7.7,
+    "poster": "images/avanesrimannarayana.jpg",
+    "shortDescription": "A fantasy adventure with mystery, style, and entertainment...",
+    "fullDescription": "Avane Srimannarayana follows a clever officer involved in a mysterious treasure hunt. The movie has fantasy, comedy, action, and stylish storytelling.",
+    "availableLanguages": [
+      "Kannada",
+      "Telugu",
+      "Hindi",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "Dia",
+    "language": "Kannada",
+    "category": "Romance",
+    "genre": "Romantic Drama",
+    "rating": 8.0,
+    "poster": "images/dia-new.jpg",
+    "shortDescription": "An emotional love story about timing and destiny...",
+    "fullDescription": "Dia is a soft romantic drama about love, hesitation, emotional choices, and unexpected turns in life. The movie is simple and touching.",
+    "availableLanguages": [
+      "Kannada",
+      "Telugu",
+      "Tamil"
+    ]
+  },
+  {
+    "name": "Roberrt",
+    "language": "Kannada",
+    "category": "Action",
+    "genre": "Action Drama",
+    "rating": 7.0,
+    "poster": "images/roberrt.jpg",
+    "shortDescription": "A commercial action drama with heroism and emotion...",
+    "fullDescription": "Roberrt follows a man with a strong past and emotional responsibilities. The movie is suitable for viewers who enjoy mass action and family drama.",
+    "availableLanguages": [
+      "Kannada",
+      "Telugu",
+      "Hindi"
+    ]
+  },
+  {
+    "name": "James",
+    "language": "Kannada",
+    "category": "Action",
+    "genre": "Action Thriller",
+    "rating": 7.5,
+    "poster": "images/james.jpg",
+    "shortDescription": "An action entertainer about loyalty, mission, and courage...",
+    "fullDescription": "James is an action thriller centered on a brave character involved in dangerous missions and conflicts. The movie offers action, emotion, and heroism.",
+    "availableLanguages": [
+      "Kannada",
+      "Telugu",
+      "Hindi"
+    ]
+  }
+]
