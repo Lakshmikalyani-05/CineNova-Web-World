@@ -27,20 +27,19 @@ CineNova is a movie discovery web application that helps users explore movies ac
 
 ### Homepage
 
-(Add homepage screenshot here)
+![Homepage](screenshots/homepage.png)
 
 ### Language Filter
 
-(Add language filter screenshot here)
+![Language Filter](screenshots/filters1.png,screenshots/filters2.png)
 
 ### Favorites
 
-(Add favorites screenshot here)
+![Favorites](screenshots/favorites.png)
 
 ### About Us
 
-(Add About Us screenshot here)
-
+![About Us](screenshots/aboutus.png)
 ## Future Enhancements
 
 * Movie recommendations
