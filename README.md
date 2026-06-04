@@ -31,7 +31,7 @@ CineNova is a movie discovery web application that helps users explore movies ac
 
 ### Language Filter
 
-![Language Filter](screenshots/filters1.png,screenshots/filters2.png)
+![Language Filter](screenshots/filters1.png)
 
 ### Favorites
 
