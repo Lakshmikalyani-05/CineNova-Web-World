@@ -523,7 +523,6 @@ footer p{
     width: 90%;
     padding: 15px 20px;
     border-radius: 30px;
-    border: 2px solid #ff66cc;
     background: #e7dede;
     color: #050505;
     font-size: 16px;
@@ -565,10 +564,9 @@ html{
     }
 
     .filters{
-        border: 2px solid #ff66cc;
         flex-direction: column;
         gap: 12px;
-    }
+        width: 90%;    }
 
     .filters label{
         font-size: 15px;
@@ -631,5 +629,45 @@ html{
 
     .filters {
         margin-top: 15px;
+    }
+}
+/* FINAL MOBILE CARD FIX */
+@media (max-width: 768px){
+
+    .movies-container{
+        display: grid !important;
+        grid-template-columns: 1fr !important;
+        justify-items: center !important;
+        gap: 24px !important;
+        padding: 15px 10px !important;
+    }
+
+    .movie-card{
+        width: 92vw !important;
+        max-width: 360px !important;
+        min-height: auto !important;
+        padding: 14px !important;
+    }
+
+    .movie-card img{
+        width: 100% !important;
+        height: 420px !important;
+        object-fit: cover !important;
+        border-radius: 12px !important;
+    }
+
+    .movie-card h3{
+        font-size: 22px !important;
+    }
+
+    .movie-card p{
+        font-size: 14px !important;
+        line-height: 1.4 !important;
+    }
+
+    .details-btn{
+        width: 100% !important;
+        padding: 10px !important;
+        margin-top: 12px !important;
     }
 }
