@@ -2,7 +2,7 @@ let allMovies = [];
 
 async function loadMovies() {
     try {
-        const response = await fetch("http://127.0.0.1:5000/movies");
+        const response = await fetch("/movies");
 
         if (!response.ok) {
             throw new Error("Backend response failed");
