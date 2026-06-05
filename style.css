@@ -547,3 +547,82 @@ html{
     transform:translateY(-8px);
     box-shadow:0 0 25px rgba(255,77,184,0.4);
 }
+
+/* FINAL MOBILE FIX */
+@media (max-width: 768px){
+
+    body{
+        padding-top: 70px !important;
+    }
+
+    .banner-text h1{
+        font-size: 26px;
+        line-height: 1.3;
+        padding: 0 15px;
+    }
+
+    .welcome-section{
+        font-size: 16px;
+    }
+
+    #searchInput{
+        width: 88%;
+        font-size: 14px;
+        padding: 13px;
+    }
+
+    .filters{
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .filters label{
+        font-size: 15px;
+    }
+
+    select{
+        width: 88%;
+        font-size: 14px;
+    }
+
+    .movies-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 25px;
+        padding: 15px;
+    }
+
+    .movie-card{
+        width: 88%;
+        max-width: 330px;
+        min-height: auto;
+        padding: 12px;
+    }
+
+    .movie-card img{
+        width: 100%;
+        height: 360px;
+        object-fit: cover;
+    }
+
+    .movie-card h3{
+        font-size: 22px;
+    }
+
+    .movie-card p{
+        font-size: 14px;
+    }
+
+    .details-btn{
+        width: 100%;
+        margin-top: 12px;
+    }
+
+    #topBtn{
+        bottom: 25px;
+        right: 15px;
+        padding: 10px 14px;
+        font-size: 13px;
+    }
+}
